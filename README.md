@@ -1,4 +1,4 @@
-# FintechPay — Production-Grade Payment System
+# WalletX — Production-Grade Payment System
 
 A Spring Boot payment system built with every pattern a fintech engineer needs on their resume.
 
