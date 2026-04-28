@@ -1,6 +1,6 @@
 # WalletX — Production-Grade Payment System
 
-A Spring Boot payment system built with every pattern a fintech engineer needs on their resume.
+WalletX is a production grade payment backend built with Java Spring Boot, designed to mirror the core architecture of real-world fintech systems like Razorpay and PhonePe. It implements a wallet engine with atomic money movement, idempotent APIs to prevent duplicate payments, async transaction processing via RabbitMQ with dead-letter queue handling, and an immutable double-entry ledger for audit-grade bookkeeping. Every feature addresses a real engineering problem like concurrency, failure recovery, data consistency, and observability , making it far beyond a typical CRUD application.
 
 ---
 
